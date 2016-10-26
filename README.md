@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
 
-# The "run_analysis.R" script works as follows:
+## The "run_analysis.R" script works as follows:
 *	First, unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and make sure the folder name stays “UCI HAR Dataset”.
 *	Make sure the folder "UCI HAR Dataset" and the run_analysis.R script are both in the current working directory.
 *	Second, use source("run_analysis.R") command in RStudio.
